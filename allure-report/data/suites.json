@@ -1,0 +1,68 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "SimpleFormTest",
+    "children" : [ {
+      "name" : "CheckSimpleForm(TestInfo)",
+      "uid" : "9d48f757ab0a4d5",
+      "parentUid" : "7b7f9e92fbb083b21ae3b4677d3c730a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651050815804,
+        "stop" : 1651050828243,
+        "duration" : 12439
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "7b7f9e92fbb083b21ae3b4677d3c730a"
+  }, {
+    "name" : "CheckBoxDemoTest",
+    "children" : [ {
+      "name" : "validateCheckBox(TestInfo)",
+      "uid" : "c656a793b810c4b7",
+      "parentUid" : "46594fc5b50ce7c857b3c0c077a14a81",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651050828326,
+        "stop" : 1651050837944,
+        "duration" : 9618
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "46594fc5b50ce7c857b3c0c077a14a81"
+  }, {
+    "name" : "TableDataCheckTest",
+    "children" : [ {
+      "name" : "checkTableData()",
+      "uid" : "7d966829586fc25f",
+      "parentUid" : "3c4705254e3dc1fd52336f071020ea00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1651050837960,
+        "stop" : 1651050847314,
+        "duration" : 9354
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "3c4705254e3dc1fd52336f071020ea00"
+  } ]
+}

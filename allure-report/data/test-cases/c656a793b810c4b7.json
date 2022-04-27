@@ -1,0 +1,81 @@
+{
+  "uid" : "c656a793b810c4b7",
+  "name" : "validateCheckBox(TestInfo)",
+  "fullName" : "CheckBoxDemoTest.validateCheckBox",
+  "historyId" : "6c5b1808bab3d32caa48ee9884d88e88",
+  "time" : {
+    "start" : 1651050828326,
+    "stop" : 1651050837944,
+    "duration" : 9618
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "8bebb3ac77b31943",
+      "name" : "PageView",
+      "source" : "8bebb3ac77b31943.png",
+      "type" : "image/png",
+      "size" : 192589
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:CheckBoxDemoTest]/[method:validateCheckBox(org.junit.jupiter.api.TestInfo)]"
+  }, {
+    "name" : "host",
+    "value" : "Veenas-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9101@Veenas-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "CheckBoxDemoTest"
+  }, {
+    "name" : "testClass",
+    "value" : "CheckBoxDemoTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "validateCheckBox"
+  }, {
+    "name" : "suite",
+    "value" : "CheckBoxDemoTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c656a793b810c4b7.json",
+  "parameterValues" : [ ]
+}

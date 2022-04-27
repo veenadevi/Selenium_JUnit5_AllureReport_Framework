@@ -1,0 +1,81 @@
+{
+  "uid" : "9d48f757ab0a4d5",
+  "name" : "CheckSimpleForm(TestInfo)",
+  "fullName" : "SimpleFormTest.CheckSimpleForm",
+  "historyId" : "a80651b929587f0e4789eabb6b914565",
+  "time" : {
+    "start" : 1651050815804,
+    "stop" : 1651050828243,
+    "duration" : 12439
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "fc04f72e85cf2ecd",
+      "name" : "PageView",
+      "source" : "fc04f72e85cf2ecd.png",
+      "type" : "image/png",
+      "size" : 169792
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:SimpleFormTest]/[method:CheckSimpleForm(org.junit.jupiter.api.TestInfo)]"
+  }, {
+    "name" : "host",
+    "value" : "Veenas-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9101@Veenas-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "SimpleFormTest"
+  }, {
+    "name" : "testClass",
+    "value" : "SimpleFormTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "CheckSimpleForm"
+  }, {
+    "name" : "suite",
+    "value" : "SimpleFormTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9d48f757ab0a4d5.json",
+  "parameterValues" : [ ]
+}

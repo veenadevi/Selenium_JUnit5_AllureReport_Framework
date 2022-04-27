@@ -1,0 +1,64 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Veenas-MacBook-Pro.local",
+    "children" : [ {
+      "name" : "9101@Veenas-MacBook-Pro.local.main(1)",
+      "children" : [ {
+        "name" : "CheckSimpleForm(TestInfo)",
+        "uid" : "9d48f757ab0a4d5",
+        "parentUid" : "c037f014ce357fcb7ac6f72584ce1239",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651050815804,
+          "stop" : 1651050828243,
+          "duration" : 12439
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "checkTableData()",
+        "uid" : "7d966829586fc25f",
+        "parentUid" : "c037f014ce357fcb7ac6f72584ce1239",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651050837960,
+          "stop" : 1651050847314,
+          "duration" : 9354
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "validateCheckBox(TestInfo)",
+        "uid" : "c656a793b810c4b7",
+        "parentUid" : "c037f014ce357fcb7ac6f72584ce1239",
+        "status" : "passed",
+        "time" : {
+          "start" : 1651050828326,
+          "stop" : 1651050837944,
+          "duration" : 9618
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "c037f014ce357fcb7ac6f72584ce1239"
+    } ],
+    "uid" : "21bc33d9a7eae04eee87c64f46ef0f1a"
+  } ]
+}

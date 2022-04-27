@@ -1,0 +1,81 @@
+{
+  "uid" : "7d966829586fc25f",
+  "name" : "checkTableData()",
+  "fullName" : "TableDataCheckTest.checkTableData",
+  "historyId" : "fc591d59020e94e5adda28b4a567b1eb",
+  "time" : {
+    "start" : 1651050837960,
+    "stop" : 1651050847314,
+    "duration" : 9354
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "6ac4117f7b97bb7",
+      "name" : "PageView",
+      "source" : "6ac4117f7b97bb7.png",
+      "type" : "image/png",
+      "size" : 154884
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "junit.platform.uniqueid",
+    "value" : "[engine:junit-jupiter]/[class:TableDataCheckTest]/[method:checkTableData()]"
+  }, {
+    "name" : "host",
+    "value" : "Veenas-MacBook-Pro.local"
+  }, {
+    "name" : "thread",
+    "value" : "9101@Veenas-MacBook-Pro.local.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "TableDataCheckTest"
+  }, {
+    "name" : "testClass",
+    "value" : "TableDataCheckTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "checkTableData"
+  }, {
+    "name" : "suite",
+    "value" : "TableDataCheckTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7d966829586fc25f.json",
+  "parameterValues" : [ ]
+}
