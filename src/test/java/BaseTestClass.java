@@ -28,8 +28,8 @@ public class BaseTestClass {
 //        driver= new ChromeDriver();
 
 
-        String username = System.getenv("LT_USERNAME") == null ? "veenadevi" : System.getenv("LT_USERNAME");
-        String authkey = System.getenv("LT_ACCESS_KEY") == null ? "V6fYJIrKHWunbcZ3jkiEwnxSZegbcFnI6lKJjuHSlmkwgno7q4" : System.getenv("LT_ACCESS_KEY");
+        String username = System.getenv("LT_USERNAME") == null ? "" : System.getenv("LT_USERNAME");
+        String authkey = System.getenv("LT_ACCESS_KEY") == null ? "" : System.getenv("LT_ACCESS_KEY");
         ;
         String hub = "@hub.lambdatest.com/wd/hub";
 
